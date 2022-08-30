@@ -3,8 +3,7 @@
 
 Un pibe de 19 años, futuro desarrollador?
 
-Hobbies:
-  - Dormir.
+Hobbies: Dormir.
 
 - 📫 Contacto: **aco.mat@outlook.com**
 
