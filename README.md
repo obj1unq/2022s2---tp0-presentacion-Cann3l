@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Matias Acosta</h1>
 <h3 align="center">Futuro desarrollador?</h3>
 
-- 📫 Contacto: **aco.mat@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/aco.mty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aco.mty" height="30" width="40" /></a><a href="https://mail.google.com/mail/u/?authuser=aaco.maty@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/245px-Gmail_icon_%282020%29.svg.png" alt="aaco.maty@gmail.com" height="30" width="30" /></a>
+<a href="https://instagram.com/aco.mty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aco.mty" height="30" width="40" /></a><a href="https://mail.google.com/mail/u/?authuser=aaco.maty@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/245px-Gmail_icon_%282020%29.svg.png" alt="aaco.maty@gmail.com" height="20" width="30" /></a>
 
 </p>
 
