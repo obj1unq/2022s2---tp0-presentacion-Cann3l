@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://instagram.com/aco.mty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aco.mty" height="30" width="40" /></a>
 
-<a href="https://instagram.com/aco.mty" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="aaco.maty@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/aco.mty" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/245px-Gmail_icon_%282020%29.svg.png" alt="aaco.maty@gmail.com" height="30" width="40" /></a>
 
 </p>
 
